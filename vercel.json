@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
+  "outputDirectory": "artifacts/omega-cocktail/dist",
   "rewrites": [
     {
       "source": "/(.*)",
@@ -8,4 +8,5 @@
     }
   ]
 }
+
 
